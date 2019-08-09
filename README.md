@@ -18,3 +18,7 @@ Javascript
 
 # Getting Started
 [Checkers](https://mad-hatter-1865.github.io/Checkers/) <br />
+
+# Next Steps
+
+Implement the code that will allow a piece to perform double jump or a corner jump.
