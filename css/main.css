@@ -1,0 +1,85 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    margin: 0;
+    display : flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: crimson;
+    width: 100%;
+    margin-top:0;
+    height: 60px;
+}
+
+.board {
+    border-collapse: collapse;
+    position:fixed;
+    margin-left:auto;
+    margin-right: auto;
+    
+}
+
+.board td {
+    width: 70px;
+    height: 70px;
+    border: 3px solid black;
+    text-align:center;
+}
+
+#footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: crimson;
+    text-align: center;
+}
+
+
+.button {
+    border: solid black;
+    width: 100px;
+    float: right;
+    background-color: black;
+    color: white;
+}
+
+#r8c2,#r8c4,#r8c6,#r8c8 {
+    background-color: black;
+}
+#r7c1,#r7c3,#r7c5,#r7c7 {
+    background-color: black;
+}
+
+#r6c2,#r6c4,#r6c6,#r6c8 {
+    background-color: black;
+}
+
+#r5c1,#r5c3,#r5c5,#r5c7 {
+    background-color: black;
+}
+
+#r4c2,#r4c4,#r4c6,#r4c8 {
+    background-color: black;
+}
+
+#r3c1,#r3c3,#r3c5,#r3c7 {
+    background-color: black;
+}
+
+#r2c2,#r2c4,#r2c6,#r2c8 {
+    background-color: black;
+}
+
+#r1c1,#r1c3,#r1c5,#r1c7 {
+    background-color: black;
+}
