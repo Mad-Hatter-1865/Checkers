@@ -6,3 +6,14 @@ Checkers is played by two opponents, on opposite sides of the gameboard. One pla
 Players alternate turns. A player may not move an opponent's piece. A move consists of moving a piece diagonally to an adjacent unoccupied
 square. If the adjacent square contains an opponent's piece, and the square immediately beyond it is vacant, the piece may be captured
 (and removed from the game) by jumping over it.
+
+
+# Screenshot
+![](images/Checker%20Screenshot.png)
+
+# Technologies Used
+HTML<br />
+CSS<br />
+Javascript
+
+# Getting Started
